@@ -22,6 +22,8 @@ body {
 	padding: 0 45px 20px;
 }
 
+/* Write all remaining styles here */
+
 h1 {
 	font-family: Baskerville, serif;
 	font-weight: bold;
@@ -57,7 +59,7 @@ footer {
 }
 
 p {
-	color: rgb(104, 75, 75, 1);
+	color: rgba(104, 75, 75, 1);
 }
 
 a {
