@@ -65,10 +65,6 @@ a {
 	text-decoration: none;
 }
 
-/* Write all remaining styles here */
-
-
-
 a:hover img {
 	border: 5px solid rgba(141, 163, 156, 1);
 }
